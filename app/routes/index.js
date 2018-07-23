@@ -5,4 +5,4 @@ router.get('/', (req, res) => {
     res.render('index');
 });
 
-module.exports = rout;
+module.exports = routes;
