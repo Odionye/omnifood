@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nonsosky/omnifood.git"
+    "url": "git+https://github.com/Odionye/omnifood.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nonsosky/omnifood/issues"
+    "url": "https://github.com/Odionye/omnifood/issues"
   },
-  "homepage": "https://github.com/nonsosky/omnifood#readme",
+  "homepage": "https://github.com/Odionye/omnifood#readme",
   "dependencies": {
     "ejs": "^2.6.1",
     "ejs-locals": "^1.0.2",
